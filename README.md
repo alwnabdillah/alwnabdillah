@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Alwan Abdillah 👋
 
 <!--
 **alwnabdillah/alwnabdillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **@toyota**
+🌱 I’m currently learning [**_React JS with Vite_**](https://react.dev/)
+💬 Ask me about
+![coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1qcmE4d2pqaWphaTR6MnBhNGw1eWp5YnJxN29jNjc5cm11c2Y1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
